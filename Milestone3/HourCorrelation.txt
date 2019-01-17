@@ -1,0 +1,3 @@
+Average rating for store open greater or egual to 12 hours a day on average is 3.6763364073461022
+Average rating for store open between 9 and 12 hours a day on average is 3.783375788875485
+Average rating for store open less than or egual to 9 hours a day on average is 3.926113073399456
